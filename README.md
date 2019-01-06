@@ -1,1 +1,1 @@
-# git-crypt
+README.md
